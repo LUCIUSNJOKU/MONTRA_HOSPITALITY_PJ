@@ -1,0 +1,11 @@
+category,n_sentences,n_reviews,pct_sentences,top_terms,npmi_coherence
+Staff,9324,9162,11.0,"staff, team, receptionist, concierge, manager, night, professional, housekeeping, service, polite",-0.283
+Service,12145,11529,14.3,"arrival, check, service, checked, process, desk, room, experience, getting, average",-0.226
+Cleanliness,6725,6596,7.9,"clean, bathroom, housekeeping, spotless, staff, area, carpet, passably, common, suite",0.012
+Facilities,9665,9421,11.4,"lounge, spa, gym, pool, center, wifi, facilities, fitness, business, functional",-0.642
+Food,6931,6897,8.2,"restaurant, breakfast, buffet, cafe, house, dining, options, write, home, decent",-0.245
+Location,9813,9508,11.5,"location, neighborhood, surrounding, area, convenient, central, getting, better, base, visiting",-0.461
+Room quality,7017,6979,8.3,"bathroom, clean, carpet, suite, décor, bedding, room, overall, tidy, passably",-0.106
+Pricing,15292,13596,18.0,"paid, price, cost, rate, pricing, hotels, similar, quality, reasonable, overall",0.254
+Comfort,353,353,0.4,"spacious, spotless, rarely, peak, crowded, condition, times, kept, looked, wifi",0.104
+General / Overall,23812,21143,28.0,"time, visit, recommend, trip, start, choice, hotel, got, stay, great",-0.512

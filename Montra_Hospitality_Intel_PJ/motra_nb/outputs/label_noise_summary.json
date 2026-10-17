@@ -1,0 +1,24 @@
+{
+  "n_total": 34460,
+  "n_flagged": 1717,
+  "pct_flagged": 4.98,
+  "flagged_by_given_label": {
+    "neutral": 711,
+    "positive": 518,
+    "negative": 488
+  },
+  "flagged_given_to_suggested": {
+    "positive \u2192 neutral": 518,
+    "negative \u2192 neutral": 488,
+    "neutral \u2192 positive": 383,
+    "neutral \u2192 negative": 328
+  },
+  "accuracy": {
+    "A_train_raw__test_raw": 0.9454,
+    "B_train_clean__test_raw": 0.947,
+    "C_train_raw__test_clean_subset": 0.9917,
+    "D_train_clean__test_clean_subset": 0.9936,
+    "test_rows_total": 4923,
+    "test_rows_flagged": 231
+  }
+}
