@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *.pyo
 
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
 # Virtual environments
 .venv/
 venv/
@@ -18,6 +21,7 @@ ENV/
 # Environment variables / secrets
 .env
 .env.*
+!.env.example
 
 # Python cache
 .pytest_cache/
