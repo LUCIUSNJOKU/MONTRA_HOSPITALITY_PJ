@@ -30,6 +30,11 @@ ENV/
 # Data files
 *.tmp
 *.temp
+Dataset*.npy
+
+# Model/results
+model/
+
 
 # OS files
 .DS_Store
@@ -39,3 +44,4 @@ Thumbs.db
 *.csv
 *.xlsx
 *.xls
+
