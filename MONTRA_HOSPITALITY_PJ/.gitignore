@@ -1,0 +1,5 @@
+.env
+.venv/
+Model/
+results/
+Dataset*.npy
