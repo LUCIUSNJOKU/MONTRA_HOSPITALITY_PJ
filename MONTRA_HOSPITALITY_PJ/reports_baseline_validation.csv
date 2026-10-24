@@ -1,0 +1,5 @@
+Base Models,Accuracy,Macro Precision,Macro Recall,Macro F1
+Random Forest,0.9397,0.9428,0.94,0.9412
+Logistic Regression,0.9393,0.9432,0.939,0.9408
+Linear SVM,0.9369,0.9413,0.9365,0.9385
+Naive Bayes,0.9319,0.9378,0.9308,0.9336
